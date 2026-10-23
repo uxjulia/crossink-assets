@@ -1,0 +1,24 @@
+{
+  "dictionaries": [
+    {
+      "filename": "Cambridge.zip",
+      "size": 16684207,
+      "description": "Learner-focused definitions with extensive examples and common-mistake help. Best for improving reading and writing."
+    },
+    {
+      "filename": "Oxford English.zip",
+      "size": 11602309,
+      "description": "Contains broad general-English references. Best for wide-ranging everyday reading."
+    },
+    {
+      "filename": "Reader-Dict.zip",
+      "size": 41474619,
+      "description": "A Wiktionary-based dictionary built for e-readers that offers broad coverage. Best for finding uncommon or specialized words."
+    },
+    {
+      "filename": "WordWeb.zip",
+      "size": 19453827,
+      "description": "A dictionary and thesaurus combined. Includes pronunciation guides without needing IPA glyphs. Best for exploring connected words and meanings."
+    }
+  ]
+}
